@@ -1,0 +1,32 @@
+{
+  "title": "A Note on the Frohmanian Symplectic Tether Framework Applied to a Functional Equation (Putnam B4 Continuous f(x^2)=f(x)^2 Solution)",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "publication_date": "2026-07-04",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "doi": "10.5281/zenodo.23629465",
+  "creators": [
+    {
+      "name": "Frohman, Benjamin Stanley",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0006-7068-3718"
+    }
+  ],
+  "keywords": [
+    "functional equations",
+    "Putnam B4",
+    "dyadic iteration",
+    "Frohmanian Symplectic Tether",
+    "continuous functions"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/BenFrohman/functional-equation-tether-b4",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Origin Provenance: April 2026 (Compiled 2026-07-04 15:59:24 CDT; Google Drive Archive 2026-07-07 14:20:55 CDT). Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved. Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0).",
+  "description": "<p>Rigorous proof solving the continuous functional equation <code>f(x^2) = f(x)^2</code> on <code>[0, &infin;)</code> with <code>f(0)=0</code>, <code>f(1)=1</code>, and <code>f(x) &ge; 0</code> via logarithmic conjugation <code>g(t) = ln f(e^t)</code>, dyadic root iteration <code>x^{1/2^k} &rarr; 1</code>, and a symplectic tether damping functional <code>E(k) = |g(t - k ln 2) - 2^{-k} g(t)|^2</code>, establishing the unique power-law solution family <code>f(x) = x^c</code> (<code>c &gt; 0</code>) and evaluating <code>f(2)=4 &rArr; c=2, f(3)=9</code>.</p><p><strong>Origin Provenance:</strong> Authored April 2026; original LaTeX PDF compiled Saturday, July 4, 2026, 3:59:24 PM CDT (<code>2026-07-04T15:59:24-05:00</code>); archived in Google Drive Tuesday, July 7, 2026, 2:20:55 PM CDT.</p><p><strong>Copyright &amp; License:</strong> Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved. Licensed under the Apache License, Version 2.0 (ORCID: <a href=\"https://orcid.org/0009-0006-7068-3718\">0009-0006-7068-3718</a>).</p>"
+}
